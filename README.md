@@ -1,6 +1,6 @@
 ## Hey, I'm Daniel
 
-Full-stack developer from Austria building across web, mobile, and TV platforms.
+Full-stack developer from Sauerland, Germany. Building across web, mobile, and TV platforms.
 
 ---
 
