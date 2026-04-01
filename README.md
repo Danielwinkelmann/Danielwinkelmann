@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Danielwinkelmann
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hey, I'm Daniel
 
-<!---
-Danielwinkelmann/Danielwinkelmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer from Austria building across web, mobile, and TV platforms.
+
+---
+
+`TypeScript` `JavaScript` `Swift` `Python` `Rust`
+
+`Vue` `Nuxt` `React Native` `Expo` `SwiftUI` `Tailwind CSS`
+
+`NestJS` `Node.js` `GraphQL` `Hono` `Nitro`
+
+`MySQL` `Redis` `Meilisearch`
+
+`Docker` `Kubernetes` `Hetzner` `Nginx` `DigitalOcean`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Danielwinkelmann&theme=dark&hide_border=true" height="150" />
+</p>
