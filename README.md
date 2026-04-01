@@ -2,11 +2,13 @@
 
 Full-stack developer from Sauerland, Germany. Building across web, mobile, and TV platforms.
 
+TypeScript, Vue, and Nuxt enthusiast at heart.
+
 ---
 
-`TypeScript` `JavaScript` `Swift` `Python` `Rust`
+`TypeScript` `Vue` `Nuxt` `JavaScript` `Swift` `Python` `Rust`
 
-`Vue` `Nuxt` `React Native` `Expo` `SwiftUI` `Tailwind CSS`
+`React Native` `Expo` `SwiftUI` `Tailwind CSS`
 
 `NestJS` `Node.js` `GraphQL` `Hono` `Nitro`
 
